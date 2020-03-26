@@ -1,0 +1,7 @@
+P: STL Jack Flaherty, STL Dakota Hudson, TOR Hyun-Jin Ryu
+C: STL Matt Wieters, BOS Christian Vazquez, PHI Deivy Grullon, ATL Tyler Flowers, STL Andrew Knizner
+1B: BOS Mitch Moreland, PHI Rhys Hoskins
+2B: STL Brad Miller, BAL Pat Valaika, PHI Scott Kingery, TOR Cavan Biggio
+3B: BAL Renato Nunez, STL Tommy Edman, ATL Austin Riley, BOS Bobby Dalbec, PIT Colin Moran
+SS: STL Brad Miller, BAL Pat Valaika, TOR Bo Bichette
+OF: BOS J.D. Martinez, BAL Trey Mancini, PHI Kyle Garlick, STL Marcell Ozuna, BOS Jackie Bradley Jr., STL Lane Thomas, BAL Anthony Santander, TOR Lourdies Gurriel Jr., BAL Austin Hays, BAL Ryan Mountcastle, PIT Socrates Brito, BOS Kevin Pillar, TOR Teoscar Hernadez, TOR Randal Grichuk, PHI Nick Williams, STL Daniel Carlson, MIN Brent Rooker, TOR Billy McKinney, MIN Jake Cave, ATL Rafael Ortega, MIN Trevor Larnach, ATL Nick Markakis

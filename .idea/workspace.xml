@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64574994-992d-4258-8144-1886650d337d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="6896809b-e57f-48b9-9143-dfcdd9c07850">
+    <option name="files">
+      <option value="spring_training_stats.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1XV5yj4rx4zIjR0xyjJ3zp2QsjW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.lol">
+    <configuration name="build_lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pydfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_lines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_lines1pmshowdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pydfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_lines1pmshowdown.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pydfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spring_training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pydfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spring_training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lol" />
+        <item itemvalue="Python.spring_training" />
+        <item itemvalue="Python.build_lines1pmshowdown" />
+        <item itemvalue="Python.build_lines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64574994-992d-4258-8144-1886650d337d" name="Default Changelist" comment="" />
+      <created>1581118677794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581118677794</updated>
+      <workItem from="1581118696242" duration="13967000" />
+      <workItem from="1581736095404" duration="16123000" />
+      <workItem from="1581903235990" duration="17000" />
+      <workItem from="1582389178147" duration="660000" />
+      <workItem from="1582390669158" duration="8427000" />
+      <workItem from="1582499572733" duration="422000" />
+      <workItem from="1582894346216" duration="16646000" />
+      <workItem from="1583159963514" duration="2625000" />
+      <workItem from="1583437572397" duration="4173000" />
+      <workItem from="1583683132781" duration="2719000" />
+      <workItem from="1583695725166" duration="9107000" />
+      <workItem from="1584307756426" duration="4000" />
+      <workItem from="1584329068526" duration="7340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="279" key="GridCell.Tab.0.bottom" timestamp="1585194899858">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.bottom/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583437410953" />
+    <state width="1638" height="279" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585194899858" />
+    <state width="1638" height="279" key="GridCell.Tab.0.center" timestamp="1585194899857">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.center/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583437410952" />
+    <state width="1638" height="279" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585194899857" />
+    <state width="1638" height="279" key="GridCell.Tab.0.left" timestamp="1585194899856">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.left/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583437410952" />
+    <state width="1638" height="279" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585194899856" />
+    <state width="1638" height="279" key="GridCell.Tab.0.right" timestamp="1585194899858">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.right/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583437410952" />
+    <state width="1638" height="279" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585194899858" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1583159798837">
+      <screen x="-1920" y="-184" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583159798837" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583088528056" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1583159798836">
+      <screen x="-1920" y="-184" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583159798836" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583088528055" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1583159798836">
+      <screen x="-1920" y="-184" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583159798836" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583088528055" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1583159798837">
+      <screen x="-1920" y="-184" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/-1920.-184.1920.1057/0.23.1680.1027@-1920.-184.1920.1057" timestamp="1583159798837" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583088528056" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pydfs$spring_training.coverage" NAME="spring_training Coverage Results" MODIFIED="1584032643189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pydfs$build_lines1pmshowdown.coverage" NAME="build_lines1pmshowdown Coverage Results" MODIFIED="1583773131638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pydfs$lol.coverage" NAME="lol Coverage Results" MODIFIED="1585194841425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pydfs$build_lines.coverage" NAME="build_lines Coverage Results" MODIFIED="1583095478363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
